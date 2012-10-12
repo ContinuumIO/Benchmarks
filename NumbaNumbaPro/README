@@ -1,0 +1,4 @@
+Benchmark and Plotting code for Numpy, Numba, Cython and Numpy,NumbaPro, NumbaPro Parallel
+
+Must compile Cython Code first:
+    python setup.py build_ext --inplace
